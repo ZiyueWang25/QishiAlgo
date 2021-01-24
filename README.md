@@ -19,3 +19,10 @@
     -  A casino offers a card game with 26 red and 26 black cards. The cards are shuffled and the dealer draws cards one by one (without putting back). You can ask the dealer to stop at any time you like. Upon stopping, you win $1 for each red card drawn, and lose \$1 for each black card. What is the optimal stopping policy to maximize expected payoff and how much you are willing to pay for this game?
     - Hint: Let the system state be (b,r): the number of black and red cards still left in the deck. The (conditional) action space is really just {continue, stop} (at b, r).
     - What's the expected payoff E[f(b,r)]?
+
+## Week3_DnC
+
+1. Maximum Depth of Binary Tree(LC104).https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2. classify 15~20 LC problems into design paradigms(see above for details)
+3. Pow(x,n)(LC50).https://leetcode.com/problems/powx-n/
+4. Generate Parentheses(LC22).Try not to use backtracking.https://leetcode.com/problems/generate-parentheses/
