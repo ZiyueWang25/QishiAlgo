@@ -26,3 +26,15 @@
 2. classify 15~20 LC problems into design paradigms(see above for details)
 3. Pow(x,n)(LC50).https://leetcode.com/problems/powx-n/
 4. Generate Parentheses(LC22).Try not to use backtracking.https://leetcode.com/problems/generate-parentheses/
+
+## Week4_BinarySearch
+
+1.  Leetcode 35. Search Insert Position:
+https://leetcode.com/problems/search-insert-position/
+2.  Leetcode 287. Find the Duplicate Number:
+https://leetcode.com/problems/find-the-duplicate-number/
+3.  Leetcode 378. Kth Smallest Element in a Sorted Matrix:
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-
+matrix/
+4. Leetcode 719. Find K-th Smallest Pair Distance:
+https://leetcode.com/problems/find-k-th-smallest-pair-distance/
