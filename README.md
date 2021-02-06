@@ -38,3 +38,15 @@ https://leetcode.com/problems/kth-smallest-element-in-a-sorted-
 matrix/
 4. Leetcode 719. Find K-th Smallest Pair Distance:
 https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+
+# Week 5_Graph
+
+1. Tricky Questions
+   1.  Permutation/combination (DFS), shortest path/distance (BFS)
+   2.  Realize it is a graph/tree searching problem (decision tree, minimum steps, etc.)
+2.  Classic Graph Algorithms
+   1.  Prim's Algorithm for minimum spanning tree (subset of edges connecting all vertices)
+   2.  Dijkstra's Algorithm for Shortest Paths (weighted graph)
+   3.  Floyd's all-pairs shortest-path algorithm
+3.  Practice Questions:
+   • Leetcode 98, 199, 130, 200
