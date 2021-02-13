@@ -39,7 +39,7 @@ matrix/
 4. Leetcode 719. Find K-th Smallest Pair Distance:
 https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 
-# Week 5_Graph
+## Week 5_Graph
 
 1. Tricky Questions
    1.  Permutation/combination (DFS), shortest path/distance (BFS)
@@ -50,3 +50,11 @@ https://leetcode.com/problems/find-k-th-smallest-pair-distance/
    3.  Floyd's all-pairs shortest-path algorithm
 3.  Practice Questions:
    • Leetcode 98, 199, 130, 200
+
+## Week 6_Backtracking
+1. Permutations (LC46)
+2. Beautiful Arrangement (LC526)
+3. Generate Parentheses (LC 22)
+4. Sudoku Solver (LC 37)
+    
+## Week 8_BitManipulation
