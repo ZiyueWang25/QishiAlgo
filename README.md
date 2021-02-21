@@ -57,4 +57,9 @@ https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 3. Generate Parentheses (LC 22)
 4. Sudoku Solver (LC 37)
     
+## Week 7_Graph
+1. 1034
+2. 1631
+3. 765
+
 ## Week 8_BitManipulation
